@@ -1,7 +1,7 @@
 ### Hi there, I'm blackboxo 👋
 
 - 🔭 PhD at FDU in Computer Science
-- 🌱 Research: Graph、Heterogeneous Information Network
+- 🌱 Research: Graph, Heterogeneous Information Network
 - ⚡ Develop: FrontEnd: Vue, React, WeChatMiniProgram; BackEnd: Django, ExpressJS
 - 💬 Language: Javascript, Python
 
