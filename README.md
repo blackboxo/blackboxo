@@ -1,7 +1,7 @@
 ### Hi there, I'm blackboxo 👋
 
-- 👨‍🔬 Senior Machine Learning Scientist in PayPal
-- 🔭 PhD of FDU in Computer Science
+- 👨‍🔬 Senior Machine Learning Scientist at PayPal
+- 🔭 PhD of Fudan University in Computer Science
 - 🌱 Research: Graph Neural Network, Fraud Detection
 - ⚡ Develop: DeepLearning: PyTorch, Tensorflow; BackEnd: FastAPI, Django, ExpressJS; FrontEnd: Vue, React;
 - 💬 Language: Python, Javascript
