@@ -6,4 +6,4 @@
 - ⚡ Develop: DeepLearning: PyTorch, Tensorflow; BackEnd: FastAPI, Django, ExpressJS; FrontEnd: Vue, React;
 - 💬 Language: Python, Javascript
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackboxo&count_private=true&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blackboxo&count_private=true&show_icons=true&rank_icon=github)
